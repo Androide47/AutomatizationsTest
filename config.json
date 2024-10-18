@@ -1,0 +1,8 @@
+{
+    "github_url": "https://api.github.com",
+    "github_user": "Androide47",
+    "github_repo": "AutomatizationsTest",
+    "github_branch": "master",
+    "github_branches": ["main", "develop", "feature/*", "bugfix/*", "hotfix/*", "release/*"],
+    "github_labels": ["bug", "enhancement", "feature", "question"]
+}
